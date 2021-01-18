@@ -1,5 +1,3 @@
 WELCOME TO THE WORLD OF GIT !!!!
 
-editted from remote repository
-
 modifield from secu
