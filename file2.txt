@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 blah modified 
 
 kokokok
+=======
+EDIT
+>>>>>>> 024feb2ac2a0e8bf904d42e3de1043781c0a35c2
